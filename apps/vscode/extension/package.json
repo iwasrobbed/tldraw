@@ -130,8 +130,8 @@
 		"clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist && rm -rf editor && rm -rf temp & yarn"
 	},
 	"devDependencies": {
-		"@tldraw/editor": "workspace:*",
-		"@tldraw/tldraw": "workspace:*",
+		"@tldraw/editor": "2.0.0-alpha.18",
+		"@tldraw/tldraw": "2.0.0-alpha.18",
 		"@types/fs-extra": "^11.0.1",
 		"@types/node-fetch": "^2.6.2",
 		"@types/vscode": "^1.75.1",
